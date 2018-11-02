@@ -22,7 +22,7 @@ website = ['http://ppprocessingltd.co.uk', 'http://www.feredaycylinder.com'
 
 pattern = ['GmbH', 'Ltd', 'Limited', 'Spa', 'Machinery', 'Corporation', 'Leroux', 'Group', 'Inc']
 # list of tags
-tags = ['p', 'a', 'l1', 'h1', 'font', 'li', 'ul']
+tags = ['p', 'a', 'l1', 'h1', 'font', 'li', 'ul','td']
 
 # Soup & REGEX libraries used to extract company names
 
